@@ -1,7 +1,7 @@
 
-  # Site Moderno de Tecnologia Futurista
+  # Site TechMap
 
-  This is a code bundle for Site Moderno de Tecnologia Futurista. The original project is available at https://www.figma.com/design/SVI1W9WdK4p76XTPrRrWYD/Site-Moderno-de-Tecnologia-Futurista.
+  
 
   ## Running the code
 
